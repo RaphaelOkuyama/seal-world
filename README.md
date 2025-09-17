@@ -69,8 +69,3 @@ Este projeto está licenciado sob a **MIT License**.
 Consulte o arquivo [LICENSE](./LICENSE) para o texto completo.
 
 Copyright (c) 2025 Raphael Okuyama
-
-```
-Você pode copiar e colar isso diretamente no seu arquivo README.md. Se precisar de mais alguma coisa, é só avisar!
-```
-
