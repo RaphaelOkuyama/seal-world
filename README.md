@@ -1,6 +1,3 @@
-Claro! Aqui está o README.md em formato Markdown:
-
-```markdown
 # 📋 Seal World
 
 Este projeto apresenta uma aplicação web chamada **Seal World**, desenvolvida utilizando HTML e CSS. O site oferece uma experiência visual imersiva sobre a vida das focas, explorando suas características e curiosidades de forma divertida e interativa.
@@ -76,3 +73,4 @@ Copyright (c) 2025 Raphael Okuyama
 ```
 Você pode copiar e colar isso diretamente no seu arquivo README.md. Se precisar de mais alguma coisa, é só avisar!
 ```
+
